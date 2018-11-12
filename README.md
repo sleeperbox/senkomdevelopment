@@ -9,7 +9,7 @@ cek remote status:
 git remote -v
 
 add repository ke remote pribadi:
-git remote add "link github ekstensi.git"
+git remote add origin "link github ekstensi.git"
 
 ambil semua nama branch yang ada:
 git fetch
