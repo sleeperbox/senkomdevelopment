@@ -47,4 +47,10 @@ git add *
 git commit -m "keterangan"
 git push
 
+setelah menyelesaikan bug fixing: lakukan PR (pull request) sebelah pojok kanan atas di github
+lalu klik, lalu masukan reviewer, masukan dea aprizal saya sebagai reviewer
+lalu klik create pull request
+
+tunggu sampai saya accept, lalu progress anda akan di merge ke dev/1.0
+lalu setelah semua selesai akan di merge ke master
 Selamat bekerja!
